@@ -1,4 +1,8 @@
-# Glitch Works 8085 SBC
+## Glitch Works 8085 SBC
+
+Main website can be found [here](https://users.glitchwrks.com/~glitch/8085projects.html)
+
+_Background_
 
 This repository contains the recovered EAGLE projects for the various PC boards designed as part of the Glitch Works 8085 SBC projects. These designs have been manufactured and tested and generally found to be functional; however, no warranty is made as to their fitness for any purpose. Please see the [LICENSE](https://github.com/glitchwrks/8085_sbc/blob/master/LICENSE) file for more information.
 
